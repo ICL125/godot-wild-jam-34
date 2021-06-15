@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/GWJ34_battle_theme_loopable_1.ogg-ecbd6713fbe9f437e57dd4bed8a0ddaf.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/music/GWJ34_battle_theme_loopable_1.ogg"
+dest_files=[ "res://.import/GWJ34_battle_theme_loopable_1.ogg-ecbd6713fbe9f437e57dd4bed8a0ddaf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
